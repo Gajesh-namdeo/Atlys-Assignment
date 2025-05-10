@@ -18,7 +18,8 @@ This project replicates an image carousel with smooth scrolling and zooming feat
 
 ### Demo
 
-You can view a demo of the carousel in action below:
+You can view a demo of the carousel in action below. 
+Note: The height is not actually 250 points; this is just for demonstration purposes.
 
 <div style="display: inline-block; margin-right: 10px;">
     <img src="Atlys/Resources/demowithoutScrolling250.gif" width="300" height="600" />
