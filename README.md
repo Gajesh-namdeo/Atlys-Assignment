@@ -20,5 +20,6 @@ This project replicates an image carousel with smooth scrolling and zooming feat
 
 You can view a demo of the carousel in action below:
 
-![Carousel Demo Without 250 points height](https://drive.google.com/file/d/1gSMQIXVzoTVmE_eSQ0inYHz-a3PcaG20/view?usp=sharing)
-![Carousel Demo With 250 points height]([path/to/your/gif.gif](https://drive.google.com/file/d/11e7AH1EON5fwNxERPZGOWfemV9Nw1DIL/view?usp=sharing))
+![Carousel Scroll Demo Height Without 250 points height](https://drive.google.com/file/d/1LGJDjXSSyEutJfcOqB-UQL1-cSVA6lo5/view?usp=sharing)
+![Carousel Resizing Demo Height Without 250 points height](https://drive.google.com/file/d/1rUIRJfE7vauHNup9YQv7uLvyD-sFo3LR/view?usp=sharing)
+
