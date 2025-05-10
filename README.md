@@ -20,6 +20,10 @@ This project replicates an image carousel with smooth scrolling and zooming feat
 
 You can view a demo of the carousel in action below:
 
-<img src="Atlys/Resources/demowithoutScrolling250.gif" width="300" height="200" />
-<img src="Atlys/Resources/demoResizingWithout250.gif" width="300" height="200" />
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="Atlys/Resources/demowithoutScrolling250.gif" width="300" height="600" />
+</div>
+<div style="display: inline-block;">
+    <img src="Atlys/Resources/demoResizingWithout250.gif" width="300" height="600" />
+</div>
 
