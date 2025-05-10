@@ -11,5 +11,5 @@ enum ItemType: String {
 }
 
 struct ItemLimits {
-    static let maxItems = 6
+    static let maxItems = 7
 }
