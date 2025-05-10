@@ -20,6 +20,6 @@ This project replicates an image carousel with smooth scrolling and zooming feat
 
 You can view a demo of the carousel in action below:
 
-![Carousel Scroll Demo Height Without 250 points height](Atlys/Resources/demowithoutScrolling250.gif)
-![Carousel Resizing Demo Height Without 250 points height](Atlys/Resources/demoResizingWithout250.gif)
+<img src="Atlys/Resources/demowithoutScrolling250.gif" width="300" height="200" />
+<img src="Atlys/Resources/demoResizingWithout250.gif" width="300" height="200" />
 
