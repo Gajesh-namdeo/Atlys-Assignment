@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import SwiftUI
 
 class ImageViewModel: ObservableObject {
     @Published var images: [String] = [] // List of image URLs
